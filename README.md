@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning web dev.
 - 📫 How to reach me, just find out.
-- 😄 Pronouns: phane.
+- 😄 Pronouns: fane.
 - ⚡ Fun fact: i never used cheats in games.
 
 <!---
