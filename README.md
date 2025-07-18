@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nmap-p4ris
-- 👀 I’m interested in web dev.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning web dev.
 - 📫 How to reach me, just find out.
 - 😄 Pronouns: fane.
